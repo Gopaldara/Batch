@@ -15,7 +15,7 @@
           </suiteXmlFiles>
         </configuration>
       </plugin>
-      <plugin>
+     <!-- <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-surefire-plugin</artifactId>
     <configuration>
@@ -26,7 +26,7 @@
             </property>
         </properties>
     </configuration>
-</plugin>
+</plugin>-->
   
  
 <plugin>
